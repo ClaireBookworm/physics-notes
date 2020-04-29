@@ -24,3 +24,18 @@ Mostly based on the textbook Physics for Scientists and Engineers, With Modern P
     - Conservation of Energy
 11. Impulse and Momentum
 12. Rotation of a Rigid Body
+
+**Electricity** (*Since magnetism apparently doesn't exist anymore*):
+1. Electric Charges and Forces
+2. The Electric Field
+3. Gauss's Law
+4. The Electric Potential
+   - Electric Potential Energy
+5. Potential and Field
+   - Capacitance and Capacitors
+6. Current and Resistance
+   - Ohm's Law
+7. Fundamentals of Circuits
+   - RC Circuits
+   - Batteries
+   - Circuit Analysis
