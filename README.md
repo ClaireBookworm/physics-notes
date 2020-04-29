@@ -39,3 +39,6 @@ Mostly based on the textbook Physics for Scientists and Engineers, With Modern P
    - RC Circuits
    - Batteries
    - Circuit Analysis
+
+
+There are two FRQs per subject and one of them will involved experimental design.
