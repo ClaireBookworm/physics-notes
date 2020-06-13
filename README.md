@@ -3,6 +3,8 @@ Notes and Work for AP Physics C
 
 Mostly based on the textbook Physics for Scientists and Engineers, With Modern Physics by Randall Knight ([Amazon Link](https://www.amazon.com/Physics-Scientists-Engineers-Strategic-Approach-dp-0134081498/dp/0134081498/ref=mt_hardcover?_encoding=UTF8&me=&qid=)).
 
+MY **NOTION** page is more comprehensive: find it [here](https://www.notion.so/nerdfighteria/AP-Physics-C-Review-ba4b6ffe8891443090f45b7302bda2d1)!
+
 ## Contents (To Cover)
 **Mechanics**:
 1. Concepts of Motion
